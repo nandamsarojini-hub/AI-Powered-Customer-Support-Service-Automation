@@ -14,32 +14,33 @@ This solution transforms traditional customer support operations by completely a
 ---
 
 ## 📂 Repository Structure
-This repository is organized sequentially to reflect the project's development lifecycle. Click on any section to view the detailed technical documentation and configuration steps.
+This repository is organized into five structural phases exactly mapping our project development sprint lifecycle. Click on any section to view the detailed technical documentation and configuration steps.
 
-### Phase 1: Strategy & Planning
+### 📋 Phase 1: Requirement Analysis & Planning
 * 📁 **[1.Functional Scope](./1.Functional%20Scope)** - Core business objectives and AI use cases.
 * 📁 **[2. Stakeholder Mapping](./2.%20Stakeholder%20Mapping)** - User roles, responsibilities, and system interactions.
 * 📁 **[3.Execution Roadmap](./3.Execution%20Roadmap)** - Phased implementation strategy.
+
+### ⚙️ Phase 2: Backend Development & Configurations
 * 📁 **[4.Salesforce Account](./4.Salesforce%20Account)** - Developer org setup and environment initialization.
-
-### Phase 2: Data Modeling & Architecture
-* 📄 **[6.tabs_and_objects.md](./6.tabs_and_objects.md)** - Custom object creation and UI tabs.
-* 📄 **[7.fields_and_relationships.md](./7.fields_and_relationships.md)** - Database schema, field types, and lookup relationships.
+* 📁 **[5.Steps to Implement](./5.Steps%20to%20Implement)** - Sequential milestones executed to build the solution.
+* 📁 **[6.Tabs & Objects](./6.Tabs%20%26%20Objects)** - Custom object creation and UI tabs.
+* 📁 **[7.Fields & Relationships](./7.Fields%20%26%20Relationships)** - Database schema, field types, and lookup relationships.
 * 📁 **[8. Validation Rules](./8.%20Validation%20Rules)** - Business logic enforcement at the database level.
-
-### Phase 3: Automation & User Interface
 * 📁 **[9.Flows](./9.Flows)** - Record-Triggered Flows for dynamic queue routing and SLA escalation.
+
+### 🎨 Phase 3: UI/UX Development & Customization
 * 📁 **[10.The Lightning App Creation](./10.The%20Lightning%20App%20Creation)** - Custom Service Console and Dynamic Forms integration.
 
-### Phase 4: Artificial Intelligence Setup
+### 🤖 Phase 4: Agentforce, Reporting & Deployment
 * 📁 **[11.Create Prompt Template](./11.Create%20Prompt%20Template)** - Generative AI configuration using Einstein Setup and Prompt Builder.
-* 📁 **[12.Deploy Prompt Builder...](./12.Deploy%20Prompt%20Builder%20in%20Student%20Object%20Us...)** - Embedding AI templates directly into the Lightning Record Page layout.
+* 📁 **[12.Deploy Prompt Builder Using Lightning App Builder](./12.Deploy%20Prompt%20Builder%20in%20Student%20Object%20Using%20Lightning%20App%20Builder)** - Embedding AI templates directly into the Lightning Record Page layout.
 
-### Phase 5: Operations & Handoff
-* 📁 **[13.Maintenance, Monitoring & Troubleshooting](./13.Maintenance,%20Monitoring%20&%20Troubleshooting)** - System health checks and error resolution.
-* 📁 **[14.Project Documentation](./14.Project%20Documentation)** - Overview of the documentation strategy.
-* 📁 **[15.Guidelines for AI-Powered Customer Support...](./15.Guidelines%20for%20AI-Powered%20Customer%20Suppor...)** - Final submission criteria.
-* 📁 **[16.Guidelines for AI-Powered Customer Support...](./16.Guidelines%20for%20AI-Powered%20Customer%20Suppor...)** - Demo video structure and presentation guidelines.
+### 🛡️ Phase 5: Deployment, Documentation & Maintenance
+* 📁 **[13.Maintenance, Monitoring & Troubleshooting](./13.Maintenance,%20Monitoring%20&%20Troubleshooting)** - System health checks and error resolution workflows.
+* 📁 **[14.Project Documentation](./14.Project%20Documentation)** - Overview of the knowledge base framework.
+* 📁 **[15.Guidelines for AI-Powered Customer Support Documentation](./15.Guidelines%20for%20AI-Powered%20Customer%20Support...)** - Final technical submission criteria.
+* 📁 **[16.Guidelines for AI-Powered Customer Support Demo Video](./16.Guidelines%20for%20AI-Powered%20Customer%20Support...)** - Video walkthrough structure and presentation outline.
 * 📁 **[17.Conclusion](./17.Conclusion)** - Final project impact, business value, and scalable outcomes.
 
 ---
