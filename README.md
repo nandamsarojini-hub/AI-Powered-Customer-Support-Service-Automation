@@ -39,8 +39,8 @@ This repository is organized into five structural phases exactly mapping our pro
 ### 🛡️ Phase 5: Deployment, Documentation & Maintenance
 * 📁 **[13.Maintenance, Monitoring & Troubleshooting](./13.Maintenance,%20Monitoring%20&%20Troubleshooting)** - System health checks and error resolution workflows.
 * 📁 **[14.Project Documentation](./14.Project%20Documentation)** - Overview of the knowledge base framework.
-* 📁 **[15.Guidelines for AI-Powered Customer Support Documentation](./15.Guidelines%20for%20AI-Powered%20Customer%20Support...)** - Final technical submission criteria.
-* 📁 **[16.Guidelines for AI-Powered Customer Support Demo Video](./16.Guidelines%20for%20AI-Powered%20Customer%20Support...)** - Video walkthrough structure and presentation outline.
+* 📁 **[15.Guidelines for AI-Powered Customer Support Documentation](./15.Guidelines%20for%20AI-Powered%20Customer%20Support%20%26%20Service%20Documentation)** - Final technical submission criteria.
+* 📁 **[16.Guidelines for AI-Powered Customer Support Demo Video](./16.Guidelines%20for%20AI-Powered%20Customer%20Support%20%26%20Service%20Automation%20Salesforce%20Project%20Demo%20Video)** - Video walkthrough structure and presentation outline.
 * 📁 **[17.Conclusion](./17.Conclusion)** - Final project impact, business value, and scalable outcomes.
 
 ---
